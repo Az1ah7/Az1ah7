@@ -1,5 +1,8 @@
 ### Hi there 👋
+<br>
 
+### Hello, I'm Computer Engineering student. Passionate about coding & tech, specializing in AI . Excited to collaborate & innovate! 💻✨
+#
 ### Tools and Languages 
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
